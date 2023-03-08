@@ -56,7 +56,11 @@
     border-bottom: 1px solid $border-color;
   }
 
-  p, li, dl {
+  li {
+    font-size: $type-size-5
+  }
+
+  p, dl {
     font-size: $type-size-syntax;
   }
 
