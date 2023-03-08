@@ -15,9 +15,9 @@ You can download my CV here.
 Research
 ======
 
-- "Foreign Television, Language Proficiency and Brain Drain: Evidence from a Natural Experiment" (with [D. Argan](https://www.damianoargan.com/)) [Last Version]
-- "Ideology  in  times  of  crisis. A principal component analysis of votes in the European Parliament, 2004-2019" (with [N. Fraccaroli](https://sites.google.com/view/nfraccaroli/home)) [Last Version]
-- "Machine Data: Market and Analytics" (with [G. Calzolari](https://sites.google.com/view/giacomo-calzolari) and [R. Rovatti](https://www.unibo.it/sitoweb/riccardo.rovatti)) [Last Version](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4335116)
+- "Foreign Television, Language Proficiency and Brain Drain: Evidence from a Natural Experiment" (with [D. Argan](https://www.damianoargan.com/)) [Last Version](/files/albania.pdf){: .btn--research}
+- "Ideology  in  times  of  crisis. A principal component analysis of votes in the European Parliament, 2004-2019" (with [N. Fraccaroli](https://sites.google.com/view/nfraccaroli/home)) [SSRN Version](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3361832)
+- "Machine Data: Market and Analytics" (with [G. Calzolari](https://sites.google.com/view/giacomo-calzolari) and [R. Rovatti](https://www.unibo.it/sitoweb/riccardo.rovatti)) [SSRN Version](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4335116)
 
 Projects
 =====
