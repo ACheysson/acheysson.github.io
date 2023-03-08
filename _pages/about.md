@@ -19,8 +19,16 @@ Research
 ======
 
 - "Foreign Television, Language Proficiency and Brain Drain: Evidence from a Natural Experiment" (with [D. Argan](https://www.damianoargan.com/)) [Last Version](/files/albania.pdf){: .btn--research}
+
+We study how foreign language proficiency affects brain drain by exploiting the exposure of parts of Albania to Italian television in the second half of the twentieth century. At that time, Albania was isolated from the rest of the world, with controlled internal migration and prohibited international migration. As the Italian TV transmitter accidentally reached Albania, Albanians' exposure to the signal was as good as random conditional on geographical variables. We find that exposure to Italian TV led to a considerable increase in Italian proficiency rates. It also strongly increased the probability of emigration of highly skilled individuals, but did not affect other skill groups. We rule out other channels through which TV might affect migration and interpret our findings as the effect of foreign language proficiency on brain drain.
+
 - "Ideology  in  times  of  crisis. A principal component analysis of votes in the European Parliament, 2004-2019" (with [N. Fraccaroli](https://sites.google.com/view/nfraccaroli/home)) [SSRN Version](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3361832)
+
+We investigate whether pro-/anti-European integration stances have become the most relevant dimension of voting in the European Parliament (EP), superseding the traditional left-right axis. Using a new database with more than 41 million observations on roll-call votes cast in the EP during 1979-2022, we show that the pro-/anti-European axis became the main dimension of voting during the eurozone crisis. We challenge the view that this was the result of a temporary change in the legislative agenda dictated by the crisis and affecting only a few policy areas. We find that the European dimension grew across all policy areas, suggesting that the EP has undergone a secular change in which pro-/anti-European stances have become the main dimension of voting regardless of any agenda changes.
+
 - "Machine Data: Market and Analytics" (with [G. Calzolari](https://sites.google.com/view/giacomo-calzolari) and [R. Rovatti](https://www.unibo.it/sitoweb/riccardo.rovatti)) [SSRN Version](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4335116)
+
+Recent technological developments in ICT and Artificial Intelligence allow extracting valuable information from data that machines generate with production, machine data (MD). Although possibly more valuable than personal data, the growing market for MD and its analytics may suffer from several issues, such as datasets fragmented into many small data-producers, externalities as with non-rival information and fuzzy property rights. We combine these market elements with critical properties that we derive from actual Machine Learning algorithms for analytics. We explore how and to what extent a data aggregator can operate, contracting with different data producers to share data and analytics. We identify conditions that impact the market organization for MD, such as producers' heterogeneity, their preference for anonymity, and the intensity of competition in final markets. 
 
 Projects
 =====
