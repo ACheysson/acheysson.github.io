@@ -10,7 +10,7 @@ redirect_from:
 
 I am a Ph.D. candidate at the European University Institute in Florence and a research fellow at the University of Bologna. My research interests are in political economy, migration, media, and industrial organizations. My supervisors are [Giacomo Calzolari](https://sites.google.com/view/giacomo-calzolari) and [Alessandro Tarozzi](https://sites.google.com/site/alessandrotarozzi/home).
 
-You can download my CV here.
+You can download my CV [here](/files/CV.pdf).
 
 Research
 ======
