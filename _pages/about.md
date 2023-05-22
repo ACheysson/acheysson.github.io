@@ -18,7 +18,7 @@ You can download my CV [here](/files/CV.pdf).
 Research
 ======
 
-### "Foreign Television, Language Proficiency and Brain Drain: Evidence from a Natural Experiment" (with [D. Argan](https://www.damianoargan.com/)) [Last Version](/files/albania.pdf){: .btn--research}
+### "Foreign Television, Language Proficiency and Brain Drain: Evidence from a Natural Experiment" (with [D. Argan](https://www.damianoargan.com/)) [Last Version](/files/albania.pdf) [Web Appendix](/files/webappendix.pdf){: .btn--research}
 
 We study how foreign language proficiency affects brain drain by exploiting the exposure of parts of Albania to Italian television in the second half of the twentieth century. At that time, Albania was isolated from the rest of the world, with controlled internal migration and prohibited international migration. As the Italian TV transmitter accidentally reached Albania, Albanians' exposure to the signal was as good as random conditional on geographical variables. We find that exposure to Italian TV led to a considerable increase in Italian proficiency rates. It also strongly increased the probability of emigration of highly skilled individuals, but did not affect other skill groups. We rule out other channels through which TV might affect migration and interpret our findings as the effect of foreign language proficiency on brain drain.
 
