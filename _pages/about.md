@@ -30,11 +30,15 @@ We investigate whether pro-/anti-European integration stances have become the mo
 
 Recent technological developments in ICT and Artificial Intelligence allow extracting valuable information from data that machines generate with production, machine data (MD). Although possibly more valuable than personal data, the growing market for MD and its analytics may suffer from several issues, such as datasets fragmented into many small data-producers, externalities as with non-rival information and fuzzy property rights. We combine these market elements with critical properties that we derive from actual Machine Learning algorithms for analytics. We explore how and to what extent a data aggregator can operate, contracting with different data producers to share data and analytics. We identify conditions that impact the market organization for MD, such as producers' heterogeneity, their preference for anonymity, and the intensity of competition in final markets. 
 
+### "Price Discrimination and Tacit Collusion: An Empirical Analysis of the U.S. Airline Industry"
+
+This paper provides an empirical investigation into the relationship between price discrimination and tacit collusion within the U.S. airline industry. Using a comprehensive dataset spanning from 2000 to 2019, the study examines how varying degrees of price discrimination influence the likelihood of collusive behavior among competing airlines. The analysis reveals that the impact of price discrimination on collusion is not static but varies over time, largely influenced by the quality of information available for implementing discriminatory pricing. In periods with poor information quality, price discrimination appears to inhibit collusion, but this effect reverses as information quality improves.
+
 Projects
 =====
 
 - "Getting Closer: Netflix Series and Global Culture" (with [R. Durante](https://www.rubendurante.net/) and [G. Gulino](https://sites.google.com/site/giorgiogulino386/home-1))
-- "Media and Multi-Homing" (with [E. Argentesi](https://sites.google.com/site/elenaargentesi/), [L. Filistrucchi](http://www.lapofilistrucchi.com/) and [C. Reggiani](https://sites.google.com/view/carloreggianieconomics/home))
+- "Media and Multi-Homing" (with [E. Argentesi](https://sites.google.com/site/elenaargentesi/), [N. Duch-Brown](https://cepr.org/about/people/nestor-duch-brown), [L. Filistrucchi](http://www.lapofilistrucchi.com/) and [C. Reggiani](https://sites.google.com/view/carloreggianieconomics/home))
 
 Blog & Press
 =====
