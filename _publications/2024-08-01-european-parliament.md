@@ -4,6 +4,7 @@ collection: publications
 permalink: /publication/2024-08-01-european-parliament
 excerpt: 'This paper is about the European parliament.'
 date: 2024-08-01
+coauthors: "With [N. Fraccaroli](https://sites.google.com/view/nfraccaroli/home)"
 status: 'R&R at Journal of European Public Policy'
 ---
 
