@@ -2,9 +2,9 @@
 title: "The Transformation of the European Parliament's Voting Dimensions: Agenda-Driven or Secular Change?"
 collection: publications
 permalink: /publication/2024-08-01-european-parliament
-excerpt: 'This paper is about the European parliament.'
+excerpt: 'This study shows that pro-/anti-European integration stances have overtaken the traditional left-right axis as the main dimension of voting in the European Parliament, particularly during and after the eurozone crisis, affecting all policy areas.'
 date: 2024-08-01
-coauthors: "With [N. Fraccaroli](https://sites.google.com/view/nfraccaroli/home)"
+coauthors: "With Nicolò Fraccaroli"
 status: 'R&R at Journal of European Public Policy'
 ---
 
