@@ -2,7 +2,7 @@
 title: "Python For Economists"
 collection: teaching
 type: "Professor"
-permalink: /teaching/2024-python-econ
+permalink: /teaching/2024-python-econ.md
 venue: "University of Bologna, Department of Economics"
 date: 2024-03-01
 location: "Bologna, Italy"
