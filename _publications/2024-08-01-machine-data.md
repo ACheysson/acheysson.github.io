@@ -2,14 +2,12 @@
 title: "Machine Data: Market and Analytics"
 collection: publications
 permalink: /publication/2024-08-01-machine-data
-excerpt: 'This paper is about machine data.'
+excerpt: 'Joint with Giacomo Calzolari and Riccardo Rovatti'
 date: 2024-08-01
 venue: 'Management Science'
-author:
-  - Anatole Cheysson
-  - Giacomo Calzolari
-  - Riccardo Rovatti
 ---
+
+Joint with Giacomo Calzolari and Riccardo Rovatti
 
 Abstract
 =========
