@@ -10,3 +10,10 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
+
+{% if page.status %}
+  <p><strong>Status:</strong> {{ page.status }}</p>
+{% else %}
+  <p><strong>Published in:</strong> {{ page.venue }}</p>
+{% endif %}

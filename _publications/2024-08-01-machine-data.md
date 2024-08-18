@@ -4,10 +4,10 @@ collection: publications
 permalink: /publication/2024-08-01-machine-data
 excerpt: 'Joint with Giacomo Calzolari and Riccardo Rovatti.'
 date: 2024-08-01
-venue: 'Management Science'
+status: 'R&R at Management Science'
 ---
 
-Joint with Giacomo Calzolari and Riccardo Rovatti
+Joint with [G. Calzolari](https://sites.google.com/view/giacomo-calzolari) and [R. Rovatti](https://www.unibo.it/sitoweb/riccardo.rovatti)
 
 Abstract
 =========
