@@ -11,9 +11,7 @@ redirect_from:
 About me
 ======
 
-I hold a Ph.D. from the European University Institute in Florence and I currently work as a research fellow at the University of Bologna. My research interests are in industrial organization, political economy, migration and media. My supervisors for the thesis were [Giacomo Calzolari](https://sites.google.com/view/giacomo-calzolari) and [Alessandro Tarozzi](https://sites.google.com/site/alessandrotarozzi/home).
-
-You can download my CV [here](/files/CV.pdf).
+I hold a Ph.D. from the European University Institute in Florence and I currently work as a research fellow at the University of Bologna. My research interests are in industrial organization, digital platforms, political economy, migration and media.
 
 Research
 ======
