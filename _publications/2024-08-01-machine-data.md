@@ -2,7 +2,7 @@
 title: "Machine Data: Market and Analytics"
 collection: publications
 permalink: /publication/2024-08-01-machine-data
-excerpt: 'Joint with Giacomo Calzolari and Riccardo Rovatti.'
+excerpt: 'Joint with [G. Calzolari](https://sites.google.com/view/giacomo-calzolari) and [R. Rovatti](https://www.unibo.it/sitoweb/riccardo.rovatti).'
 date: 2024-08-01
 status: 'Conditionally accepted at Management Science'
 ---
