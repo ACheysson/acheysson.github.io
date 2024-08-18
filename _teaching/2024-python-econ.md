@@ -1,6 +1,6 @@
 ---
 title: "Python For Economists"
-collection: teaching
+collection: Teaching
 type: "Master Class"
 permalink: /teaching/2024-python-econ
 venue: "University of Bologna, Department of Economics"
