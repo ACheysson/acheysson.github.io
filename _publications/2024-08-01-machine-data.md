@@ -5,7 +5,7 @@ permalink: /publication/2024-08-01-machine-data
 excerpt: 'This paper is about machine data.'
 date: 2024-08-01
 venue: 'Management Science'
-authors:
+author:
   - Anatole Cheysson
   - Giacomo Calzolari
   - Riccardo Rovatti
