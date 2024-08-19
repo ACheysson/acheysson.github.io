@@ -1,14 +1,25 @@
 ---
 layout: archive
-title: "Submitted Work"
+title: "Research"
 permalink: /publications/
 author_profile: true
 ---
 
 {% include base_path %}
 
+<!-- Section for Submitted Work -->
+<h2>Submitted Work</h2>
 {% for post in site.publications reversed %}
-  {% include archive-single.html %}
+  {% if post.category == "Submitted" %}
+    {% include archive-single.html %}
+  {% endif %}
 {% endfor %}
 
 
+<!-- Section for Working Papers -->
+<h2>Ongoing Projects</h2>
+{% for post in site.publications reversed %}
+  {% if post.category == "Ongoing" %}
+    {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
