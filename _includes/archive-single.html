@@ -45,8 +45,12 @@
         {% if post.collection == 'teaching' %}
           <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif post.collection == 'publications' %}
-		  {% if post.coauthors %}                                  
-		  	<p style="margin-bottom: 0px">{{post.coauthors}}</p>
+		  {% if post.coauthors %}            
+			{% if post.category == "Project" %}
+				<p style="margin-bottom: 0px; margin-top: 0px">{{post.coauthors}}</p>
+			{% else %}
+				<p style="margin-bottom: 0px">{{post.coauthors}}</p>
+			{% endif %}
 		  {% endif %}
           {% if post.status %}
 		      <em style="margin-top: 1px">{{ post.status | markdownify | strip_html }}</em>
