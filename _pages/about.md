@@ -13,19 +13,6 @@ About me
 
 I hold a Ph.D. from the European University Institute in Florence and I currently work as a research fellow at the University of Bologna. My research interests are in industrial organization, digital platforms, political economy, migration and media.
 
-Research
-======
-
-### "Price Discrimination and Tacit Collusion: An Empirical Analysis of the U.S. Airline Industry"
-
-This paper provides an empirical investigation into the relationship between price discrimination and tacit collusion within the U.S. airline industry. Using a comprehensive dataset spanning from 2000 to 2019, the study examines how varying degrees of price discrimination influence the likelihood of collusive behavior among competing airlines. The analysis reveals that the impact of price discrimination on collusion is not static but varies over time, largely influenced by the quality of information available for implementing discriminatory pricing. In periods with poor information quality, price discrimination appears to inhibit collusion, but this effect reverses as information quality improves.
-
-Projects
-=====
-
-- "Getting Closer: Netflix Series and Global Culture" (with [R. Durante](https://www.rubendurante.net/) and [G. Gulino](https://sites.google.com/site/giorgiogulino386/home-1))
-- "Media and Multi-Homing" (with [E. Argentesi](https://sites.google.com/site/elenaargentesi/), [N. Duch-Brown](https://cepr.org/about/people/nestor-duch-brown), [L. Filistrucchi](http://www.lapofilistrucchi.com/) and [C. Reggiani](https://sites.google.com/view/carloreggianieconomics/home))
-
 Blog & Press
 =====
 
