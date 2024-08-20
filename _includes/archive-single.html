@@ -46,8 +46,11 @@
 		  {% endif %}
           {% if post.status %}
 		      <em style="margin-top: 1px">{{ post.status | markdownify | strip_html }}</em>
-          {% else %}
+          {% elsif post.venue %}
             <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+		  {% endif %}
+		  {% if post.link %}
+			<p style="margin-top: 1px">{{ post.link | markdownify | strip_html }}</p>
 		  {% endif %}
         {% elsif post.date %}
          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>

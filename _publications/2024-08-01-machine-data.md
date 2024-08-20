@@ -7,6 +7,7 @@ category: "Submitted"
 date: 2024-08-01
 coauthors: "With Giacomo Calzolari and Riccardo Rovatti"
 status: 'Conditionally accepted at Management Science'
+link: '[Working Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4335116)'
 ---
 
 Joint with [G. Calzolari](https://sites.google.com/view/giacomo-calzolari) and [R. Rovatti](https://www.unibo.it/sitoweb/riccardo.rovatti)
