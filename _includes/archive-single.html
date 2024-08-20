@@ -45,7 +45,7 @@
 		  	<p style="margin-bottom: 0px">{{post.coauthors}}</p>
 		  {% endif %}
           {% if post.status %}
-		      <em style="margin-top: 1px">{{ post.status }}</em>
+		      <em style="margin-top: 1px">{{ post.status | markdownify}}</em>
           {% else %}
             <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
 		  {% endif %}
