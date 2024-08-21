@@ -15,8 +15,8 @@ main:
 #  - title: "Blog Posts"
 #    url: /year-archive/
 
-#  - title: "Press"
-#    url: /press/
+  - title: "Press"
+    url: /press/
     
   - title: "CV"
     url: /files/CV.pdf
