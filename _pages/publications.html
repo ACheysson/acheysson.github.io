@@ -7,6 +7,14 @@ author_profile: true
 
 {% include base_path %}
 
+<h2>Publications</h2>
+{% for post in site.publications reversed %}
+  {% if post.category == "Publications" %}
+    {% include archive-single.html %}
+  {% endif %}
+{% endfor %}
+
+
 <!-- Section for Submitted Work -->
 <h2>Submitted Work</h2>
 {% for post in site.publications reversed %}
