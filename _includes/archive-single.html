@@ -51,9 +51,9 @@
         {% elsif post.collection == 'publications' or post.collection == 'press'%}
 		  {% if post.coauthors %}            
 			{% if post.category == "Project" %}
-				<p style="margin-bottom: 0px; margin-top: 0px">{{post.coauthors}}</p>
+				<p style="margin-bottom: 0px; margin-top: 0px">{{post.coauthors | markdownify | remove: "<p>" | remove: "</p>"}}</p>
 			{% else %}
-				<p style="margin-bottom: 0px">{{post.coauthors}}</p>
+				<p style="margin-bottom: 0px">{{post.coauthors | markdownify | remove: "<p>" | remove: "</p>"}}</p>
 			{% endif %}
 		  {% endif %}
           {% if post.status %}
