@@ -26,7 +26,7 @@
       </div>
     {% endif %}
 
-    <h2 class="archive__item-title" itemprop="headline">
+    <h2 class="archive__item-title" itemprop="headline" style="margin-bottom: 0;">
 		{% if post.category == 'Project' %}
 			<p style = "margin-top: 3px; margin-bottom: 3px">{{ title }}</p>
 		{% else %}
@@ -53,7 +53,7 @@
 			{% if post.category == "Project" %}
 				<p style="margin-bottom: 0px; margin-top: 0px">{{post.coauthors | markdownify | remove: "<p>" | remove: "</p>"}}</p>
 			{% else %}
-				<p style="margin-bottom: 0px">{{post.coauthors | markdownify | remove: "<p>" | remove: "</p>"}}</p>
+				<p style="margin-bottom: 0px; margin-top: 0px">{{post.coauthors | markdownify | remove: "<p>" | remove: "</p>"}}</p>
 			{% endif %}
 		  {% endif %}
           {% if post.status %}
